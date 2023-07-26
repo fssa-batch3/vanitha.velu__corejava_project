@@ -24,7 +24,7 @@ public class ConnectionUtil {
 		Connection con = null;
 		String url = "jdbc:mysql://localhost:3306/project";
 		String userName = "root";
-		String passWord = "123456";
+		String passWord = "24@manojkumar";
 
 		con = DriverManager.getConnection(url, userName, passWord);
 
